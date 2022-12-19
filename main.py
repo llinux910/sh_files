@@ -85,6 +85,6 @@ def scripts():
 
 commands = [python_path,scripts()]
 
-proc = subprocess.Popen(commands,shell=True)
+proc = subprocess.Popen(python_path,scripts(),shell=True)
 
 
