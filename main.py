@@ -4,10 +4,10 @@ import subprocess
 ## !-- Please change the variables in this section! --
 
 # Virtual environment or real Python path
-python_path ='/home/jph/virenv/bin/python'
+python_path ='/home/jph/project/virenv/bin/python'
 
 # Folder location where *.ipynb files are stored
-folderPath = '/home/jph/virenv/bin/document'
+folderPath = '/home/jph/project/virenv/bin/document'
 
 # github pages folder path
 githubPagesPath = '/home/jph/project/github/llinux910.github.io'

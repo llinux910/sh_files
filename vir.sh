@@ -1,6 +1,6 @@
 
 #!/bin/bash
 
-source /home/jph/virenv/bin/activate
-cd /home/jph/virenv/bin/
+source /home/jph/project/virenv/bin/activate
+cd /home/jph/project/virenv/bin/
 jupyter notebook 
