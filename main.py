@@ -10,7 +10,7 @@ python_path ='/home/jph/virenv/bin/python'
 folderPath = '/home/jph/virenv/bin/document'
 
 # github pages folder path
-githubPagesPath = '/home/jph/proj/github/llinux910.github.io'
+githubPagesPath = '/home/jph/project/github/llinux910.github.io'
 
 # ---
 
